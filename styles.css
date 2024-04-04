@@ -1,0 +1,70 @@
+body{
+ /* background-color: blue; */
+ font-family: 'Montserrat-bold', sans-serif;
+ text-align: center;
+ background-color:blue;
+}
+img{
+  width: 30px;
+  background-color: blue;
+  /* margin: -1px -1px; */
+}
+
+#navigation{
+  padding: 8% 15%;
+  color: white;
+}
+.navbar-brand {
+  font-family: 'Albert Sans', sans-serif;
+  font-size: 20px;
+  margin: 0px 14px;
+  font-weight: bold;
+}
+.coinbase{
+  color: white;
+  font-family: 'Albert Sans', sans-serif;
+}
+.coinbase:hover{
+  color: white;
+}
+.earn-btn{
+  background-color:lawngreen;
+}
+
+.sign-in{
+  margin: 0px 10px;
+}
+
+.big-heading{
+ padding-top: 50px;
+ font-family: 'Albert Sans', sans-serif;
+ font-size:50px;
+ font-weight: bold;
+}
+
+.big-heading-para{
+  padding-top:10px;
+  color:#C7D36F;
+  margin-bottom: 20px;
+}
+
+.address{
+  padding: 8px;
+  margin: 0px 5px;
+}
+
+.submission-button{
+  background-color: lawngreen;
+  padding: 8px 15px;
+  color: white;
+}
+
+@media(max-width:991px){
+  #title{
+    text-align: center;
+  }
+  .title-img{
+    transform: rotate(0);
+    
+  }
+}
