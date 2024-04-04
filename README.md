@@ -1,2 +1,1 @@
-# coinbase-frontpage-replicate
-# coinbase-frontpage-replicate
+A static coinbase front page
